@@ -2,4 +2,4 @@ sources:
   - Platypi.glyphs
   - Platypi-Italic.glyphs
 familyName: Platypi
-buildOTF: false
+buildOTF: true
